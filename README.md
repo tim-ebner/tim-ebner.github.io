@@ -1,1 +1,2 @@
-# tim-ebner.github.io
+
+[Quiz Gallery Privacy Statement](/quiz-gallery/privacy-statement.md)
